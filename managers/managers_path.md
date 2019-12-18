@@ -17,7 +17,7 @@ Managers focus on: team management and development that drives results
 ### Rollout process improvements & adoption of engineering tools
 * Introduce and rollout process improvements that improve quality and speed
 * Recommend new engineering tools that improve quality and speed to makers and teams
-* Partner with makers on adoption of process and tools
+* Partner with developers on adoption of process and tools
 
 
 ### Organization & administrative
@@ -25,6 +25,3 @@ Managers focus on: team management and development that drives results
 * Remove obstacles for engineers and work collaboratively across teams
 * Manage an efficient process for sharing and executing company mission and policy
 
-
-### Career Paths
-![alt text](https://github.com/Socialbakers/engineering-roles/blob/master/paths.png "Career Paths")

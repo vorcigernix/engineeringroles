@@ -29,6 +29,8 @@ Principal Architect
 
 #### Results
 * Mentor engineers towards technical and architecture approaches and decisions that are in service to Socialbakers achieving our company goals as fast and as well as possible
+* Work with Engineering Leadership (meaning Directors, VPs, CTO) on defining regular Platform team objectives and key results that accelerate the company and product team key results
+* Focus on ensuring that all technical and architecture decisions are in service to Socialbakers achieving our company and Platform team key results as fast and as well as possible
 * Identify the engineering improvements with highest impact to company/engineering goals and collaborate with Engineering Leadership to define a solution and roadmap for execution
 * Collaborate with Engineering Leadership to roll out large technical initiatives and improvements across the entire engineering team, including identifying engineers who are good candidates to grow their leadership skills to own parts of initiatives
 * Monitor skills and capabilities of engineers across all teams and suggest to Directors and EMs areas people are exceeding expectations/ready for promotion and could improve/grow
@@ -38,4 +40,6 @@ Principal Architect
 * Mentor and support engineers towards architecting and building with high quality, simplicity, continuous iteration and experimentation, and speed of launching to production
 * Communicate clear vision and guidelines for architecture and code deletion best practices across the company
 * Formulate and communicate a vision for the continuing evolution of the technical details for how we make Socialbakers
-* Do and collaborate with other engineers on R&D, prototyping, and assessments for determining current and future engineering solutions and technologies
+* Collaborate with other engineers on R&D, prototyping, and assessments for determining current and future engineering solutions and technologies
+* Communicate clear vision and direction for Platform engineering decisions across the company
+* Partner with the Engineering Leadership to turn business and product strategy into Platform engineering strategy, roadmap, objectives, and key results
