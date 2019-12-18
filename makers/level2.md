@@ -1,11 +1,11 @@
-Senior Engineer
+Engineer L2
 ===============
 
-*Same as Engineer II, but also...*
+*Same as L1, but also...*
 
 ### Should have
 
-* Successfully performed the role of an Engineer II at Meetup or equivalent role elsewhere
+* Successfully performed the role of an L1 at Socialbakers or equivalent role elsewhere
 * Performed work that was evaluated to be done at ‘high quality’ by peers
 * Demonstrated ability to collaborate well across teams
 * Succeeded as an engineer when presented with projects of increasing complexity over time across multiple areas or domains of the code/product
@@ -34,3 +34,6 @@ Senior Engineer
 * Work across engineering teams (dev, QA, systems) to ensure new code launches smoothly and customer needs are met
 * Monitor the outcomes of team’s actions to learn from mistakes and replicate successes
 * Interview prospective candidates and provide thoughtful evaluations and feedback
+
+### Red flags
+ Fails to identify or communicate big roadblocks. Us-vs-them attitude. Continually underestimates timelines. Doesn’t take operational excellence seriously. Solutions are more complicated than necessary.

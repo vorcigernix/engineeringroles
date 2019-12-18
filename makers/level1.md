@@ -1,7 +1,6 @@
-Engineer II
+Engineer L1
 ===============
 
-*Same as Engineer, but also...*
 
 ### Should have
 
@@ -27,3 +26,8 @@ Engineer II
 * Have production access and use it responsibly
 * Pair often and provide some guidance to more junior engineers
 * Review pull requests from engineers of a range of abilities
+* Seek to tie stories back to user value & impact for our members & organizers
+
+### Red flags
+
+### Examples
