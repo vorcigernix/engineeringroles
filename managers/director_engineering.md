@@ -1,6 +1,5 @@
 Director, Engineering
 =====================
-*Same as Senior Manager, but also...*
 
 ### Should have
 * At least 5 years experience both managing engineers and leading an engineering team.

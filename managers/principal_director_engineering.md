@@ -1,4 +1,4 @@
-Senior Director, Engineering
+Principal Director, Engineering
 =====================
 *Same as Director, but also...*
 
@@ -25,13 +25,13 @@ Senior Director, Engineering
 * Ensure engineers and teams are empowered to deliver results towards goals, while simultaneously balancing longer-term strategic priorities
 * Build a culture across the company where strategic failure leads to longer-term delivery of results
 * Develop and implement procedures that are innovative and efficient, and that position Socialbakers for long term success
-* Partner with the CTO + VPEs to build consensus and drive forward big decisions across the company and engineering that accelerate our ability to deliver results 
+* Partner with the CEO + VPEs to build consensus and drive forward big decisions across the company and engineering that accelerate our ability to deliver results 
 
 #### Management
 
 * Mentors, coaches, and sponsors engineers, managers, and talent across the company so they grow into future leaders
 * Provides the right balance of direction and empowerment so Engineering Managers, Engineering Leads, and teams make decisions that are aligned with the company and engineering strategy and goals
 * Ensure that Engineering Managers and Engineering Leads are mentoring and managing teams effectively towards consistently delivering on results
-* Collaborates with the CTO + VPEs to roll out large improvements all of engineering, including identifying emerging leaders who could own parts of initiatives
+* Collaborates with the VPEs to roll out large improvements all of engineering, including identifying emerging leaders who could own parts of initiatives
 * Manage a resourcing process for your unit/team and strategically plan for the needs of future strategy, priorities, and goals
 * Is active in the community to help grow the Socialbakers brand through presenting at conferences and Socialbakerss, blogging, open sourcing, and more.
