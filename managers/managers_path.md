@@ -27,4 +27,4 @@ Managers focus on: team management and development that drives results
 
 
 ### Career Paths
-![alt text](https://github.com/meetup/engineering-roles/blob/master/paths.png "Career Paths")
+![alt text](https://github.com/Socialbakers/engineering-roles/blob/master/paths.png "Career Paths")

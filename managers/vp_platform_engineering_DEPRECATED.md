@@ -11,7 +11,7 @@ VP, Platform Engineering
  
 ### Is expected to 
 ### Results
-* Focus on ensuring that all engineering effort is in service of Meetup achieving our company key results as fast and as well as possible by coordinating, aligning, and monitoring ongoing engineering execution across platform engineering
+* Focus on ensuring that all engineering effort is in service of Socialbakers achieving our company key results as fast and as well as possible by coordinating, aligning, and monitoring ongoing engineering execution across platform engineering
 * Work with Product and Strategy leadership to understand product roadmaps, requirements, and timelines
 * Develop and maintain an overall execution plan for platform engineering teams and provide resourcing and technical support as needed
 * Design processes for smooth operations, fast execution, and clear decisions, and communicate expectations, decisions, and changes to all stakeholders

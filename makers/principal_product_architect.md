@@ -11,7 +11,7 @@ Principal Product Architect
 * The ability and proven desire to collaborate and communicate across teams to drive technical projects to completion
 * The ability to follow several engineering projects across the company and get involved with teams to facilitate delivering results
 * A deep understanding and interest in turning business and product strategy into technical strategy, roadmap, and goals across all Product teams
-* A strong desire to lead architecture for a high quality Meetup Product that delivers a world-class experience to Meetup members
+* A strong desire to lead architecture for a high quality Socialbakers Product that delivers a world-class experience to Socialbakers members
  
 ### Is expected to
 ### Technical
@@ -25,7 +25,7 @@ Principal Product Architect
  
 ### Results
 * Work with the Engineering Leadership (meaning Directors, VPs, CTO) on defining regular Product Engineering team objectives and key results that ladder up to company and product team key results
-* Focus on ensuring that all technical and architecture decisions are in service to Meetup achieving our company and Product team key results as fast and as well as possible
+* Focus on ensuring that all technical and architecture decisions are in service to Socialbakers achieving our company and Product team key results as fast and as well as possible
 * Identify the Product codebase improvements with highest impact and collaborate with Engineering Leadership to define a solution and roadmap for execution
 * Coordinate with Engineering Leadership to roll out big initiatives and improvements across the entire engineering team
 * Monitor performance of engineers across all Product teams and suggest improvements to engineering leads and managers

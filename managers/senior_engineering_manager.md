@@ -4,7 +4,7 @@ Senior Engineering Manager
 
 ### Should have
 * Experience managing engineers and leading multiple teams
-* Experience and a deep interest in leading initiatives for improving Meetup engineering culture, values, process, speed, quality, execution, and delivery.
+* Experience and a deep interest in leading initiatives for improving Socialbakers engineering culture, values, process, speed, quality, execution, and delivery.
 * Experience leading recruiting initiatives, as well as growing and organizing multiple engineering teams.
 * A desire to navigate and lead teams through ambiguous situations, tackle complex issues, and align strategy with company priorities, 
 * A desire to manage managers and manage engineering leads

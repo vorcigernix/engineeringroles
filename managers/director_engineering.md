@@ -7,7 +7,7 @@ Director, Engineering
 * Experience collaborating with leaders and stakeholders across the company to build a high level roadmap & vision for a team.
 * A deep understanding of how cross-functional product teams work at a software product company and experience managing such teams.
 * A desire to focus on managing other engineering managers, engineering leads, and staff engineers 
-* Experience and a deep interest in leading initiatives for improving Meetup engineering culture, values, process, speed, quality, execution, and delivery.
+* Experience and a deep interest in leading initiatives for improving Socialbakers engineering culture, values, process, speed, quality, execution, and delivery.
 * Experience leading recruiting initiatives, as well as growing and organizing engineering teams.
 * A deep understanding of engineering teams and architecture best practices across multiple disciplines (especially machine learning, analytics, data pipeline, core platform, and infrastructure engineering)
 
@@ -32,7 +32,7 @@ Director, Engineering
 * Ensure every engineer on their teams understands why their project is important to their business unit and company goals.
 * Delegate parts of large projects to others and keep teams collectively focused and on track
 * Guide the architecture of their teams to ensure it fits the goals of their business unit as well as the best practices set out by the collectives.
-* Ensure that all decisions are in service of Meetup’s members and organizers
+* Ensure that all decisions are in service of Socialbakers’s members and organizers
 * Guide the quality & testing strategy of their biz unit
 
 #### Results

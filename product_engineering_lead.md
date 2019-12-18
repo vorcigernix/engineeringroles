@@ -4,7 +4,7 @@ Engineering Lead
 ## The Engineering Lead is accountable for the technical approach and code quality the team delivers 
 *An Engineering Lead is a formal role that is added to an engineer’s normal responsibilities.  Becoming an EL does not result in a change in title, and people can switch in and out of this role on different teams based on what is the best fit for the team and individual at that time.*
 
-*Engineering Lead is a leadership role. The technical success & output of their squad is more important than the code they themselves write.*
+*Engineering Lead is a leadership role. The technical success & output of their team is more important than the code they themselves write.*
 
 ### Accountabilities
 * *If the technical solution the team chooses doesn’t solve the problem, it’s on the EL*
@@ -16,10 +16,10 @@ Engineering Lead
 
 ### Responsibilities
 #### Goals & planning
-* Work with PM/ED/EM/Designer to create key results for squads
+* Work with PM/ED/EM/Designer to create key results for teams
 * Work with PM/Designer to suggest hypotheses & ways to validate them
 * Work with PM/Designer to discuss approach & t shirt size of larger releases/features - look for ways to break into smaller pieces that add value & discuss risks & mitigations
-* Ensure the squad understands how the sprint & the stories in it ladder up into OKRs & the company priorities
+* Ensure the team understands how the sprint & the stories in it ladder up into OKRs & the company priorities
 * Lead necessary tradeoff decisions with the PM, Designer, and team
 #### Backlog & Story Grooming
 * Work with PM to ensure epics & stories have a clear goal, are user focussed & have clear acceptance criteria
@@ -34,7 +34,7 @@ Engineering Lead
 * Ensure high quality architecture & technical approach of features
 * Guide team towards the simplest solution 
 * Act as tie breaker if necessary
-* Ensure squad is breaking features into vertical slices that add value rather than doing big upfront architecture 
+* Ensure team is breaking features into vertical slices that add value rather than doing big upfront architecture 
 * Ensure code quality, stability & UX speed as appropriate (experiments & prototypes may have different standards)
 * Coach & mentor engineers in technical development & good engineering practices
 #### Process

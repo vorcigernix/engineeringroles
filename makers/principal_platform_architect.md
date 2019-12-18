@@ -11,7 +11,7 @@ Principal Platform Architect
 * The ability to successfully collaborate and communicate across teams to drive technical projects to completion
 * The ability to follow several engineering projects across the company and get involved with teams to facilitate delivering results
 * A deep understanding and interest in turning business and product strategy into technical strategy, roadmap, and goals across all Platform engineering teams
-* A strong desire to lead architecture for a high quality and performant Meetup engineering cloud-based Platform that delivers a world-class experience to Meetup engineers, product teams, and ultimately members
+* A strong desire to lead architecture for a high quality and performant Socialbakers engineering cloud-based Platform that delivers a world-class experience to Socialbakers engineers, product teams, and ultimately members
  
 ### Is expected to
 ### Technical
@@ -25,7 +25,7 @@ Principal Platform Architect
  
 ### Results
 * Work with Engineering Leadership (meaning Directors, VPs, CTO) on defining regular Platform team objectives and key results that accelerate the company and product team key results
-* Focus on ensuring that all technical and architecture decisions are in service to Meetup achieving our company and Platform team key results as fast and as well as possible
+* Focus on ensuring that all technical and architecture decisions are in service to Socialbakers achieving our company and Platform team key results as fast and as well as possible
 * Coordinate with Engineering Leadership to roll out big initiatives and improvements across the entire engineering team
 * Identify the Platform codebase improvements with highest impact and collaborate with Engineering Leadership to define a solution and roadmap for execution
 * Monitor performance of engineers across all Platform teams and Suggest improvements to engineering leads and managers for engineers across all Platform teams

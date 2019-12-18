@@ -6,7 +6,7 @@ Director, Product Engineering
 * Experience collaborating with product to build a high level roadmap & vision for a team.
 * An excellent track record of partnering with product to build products that delight users.
 * A deep understanding of how cross-functional product teams work at a software product company and experience managing such teams.
-* Experience and a deep interest in leading initiatives for improving Meetup engineering culture, values, process, speed, quality, execution, and delivery.
+* Experience and a deep interest in leading initiatives for improving Socialbakers engineering culture, values, process, speed, quality, execution, and delivery.
 * Experience leading recruiting initiatives, as well as growing and organizing engineering teams.
 
 

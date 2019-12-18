@@ -1,7 +1,7 @@
-Engineer L2
+Engineer L3
 ===============
 
-*Same as L1, but also...*
+*Same as L2, but also...*
 
 ### Should have
 
@@ -19,21 +19,24 @@ Engineer L2
 
 ### Is expected to
 
-* Be familiar  with multiple areas or domains of the code/product
+* Be familiar with multiple areas or domains of the code/product
 * Be able to dive in to any area of the code/product that they’re not familiar with & make changes, guide others in how to do this
 * Show curiosity to not only learn new things but fully understand how they work
 * Be highly productive - have a reputation for getting things done quickly and efficiently
 * Be a mentor for other engineers
-* Own and complete full projects beginning with identifying and communicating the problems to be solved, getting and incorporating feedback on proposed architectural solutions, and making a final decision as the owner of a project.
-* Deconstruct a problem into an executable action plan for themselves and other engineers - also perform them in a high quality way without issue
+* Capable of identifying and communicating the problems to be solved
+* Helping in breakdown of a problem into an executable action plan for themselves and other engineers 
 * Consistently tie back a project to a team goal
-* Set and maintain high individual and team expectations
 * Actively participate in frequent code/design/architecture reviews
 * Be able to communicate well with all engineers regardless of seniority
 * Generate support for a company/team decision
-* Work across engineering teams (dev, QA, systems) to ensure new code launches smoothly and customer needs are met
+* Work across engineering teams (dev, QA, devops) to ensure new code launches smoothly and customer needs are met
 * Monitor the outcomes of team’s actions to learn from mistakes and replicate successes
 * Interview prospective candidates and provide thoughtful evaluations and feedback
 
 ### Red flags
- Fails to identify or communicate big roadblocks. Us-vs-them attitude. Continually underestimates timelines. Doesn’t take operational excellence seriously. Solutions are more complicated than necessary.
+* Fails to identify or communicate big roadblocks
+* Us-vs-them attitude 
+* Continually underestimates timelines
+* Doesn’t take operational excellence seriously
+* Solutions are more complicated than necessary

@@ -12,7 +12,7 @@ VP, Engineering
  
 ### Is expected to 
 #### Results
-* Focus on ensuring that all engineering effort is in service of Meetup achieving our company key results as fast and as well as possible by coordinating, aligning, and monitoring ongoing engineering execution across product or platform engineering
+* Focus on ensuring that all engineering effort is in service of Socialbakers achieving our company key results as fast and as well as possible by coordinating, aligning, and monitoring ongoing engineering execution across product or platform engineering
 * Work with Product and Business leadership to understand product roadmaps, requirements, and timelines
 * Develop,maintain, and communicate an overall execution plan for engineering teams. Manage team resourcing process and strategic plans to meet  future vision, strategy, and priorities
 * Design processes for smooth operations, fast execution, and clear decisions, and communicate expectations, decisions, and changes to all stakeholders

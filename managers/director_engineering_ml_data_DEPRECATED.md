@@ -20,7 +20,7 @@ Director, Machine Learning & Data Engineering
 * Build a culture rewarding strategic failure as well as success.
 
 ### Strategy
-* Develop and clearly communicate a vision, plans, roadmap, and goals for Machine Learning & Data Engineering at Meetup based on product strategy and company goals
+* Develop and clearly communicate a vision, plans, roadmap, and goals for Machine Learning & Data Engineering at Socialbakers based on product strategy and company goals
 * Collaborate with product, strategy, and engineering leadership to set direction of Machine Learning and Data Platform teams’ focus and goals based on company goals
 
 ### Management

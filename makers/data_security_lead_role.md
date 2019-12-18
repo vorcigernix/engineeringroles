@@ -7,17 +7,17 @@ Data Security Lead
 * A few years experience with data security
 * Excellent communication skills both inside and outside engineering, including company leadership; able to communicate the details as well as summarize at the executive level to non-technical people
 * Self-motivated; able to plan and execute on activities with only general guidance
-* A deep interest in protecting Meetup, it's members/organizers, and employees from data security risks
+* A deep interest in protecting Socialbakers, it's members/organizers, and employees from data security risks
 
 ### Is expected to
 * Meet with a data security group, inclusive of the VP Platform Engineering to review incidents, risks, and remedies
-* Create and implement security policies both for Meetup employees and for how we build Meetup
+* Create and implement security policies both for Socialbakers employees and for how we build Socialbakers
 * Ensure engineers apply security best practices in their code
 * Clearly communicate security goals and plans across the Engineering team
 * Help in determining resourcing needs for remediation or mitigating risks
 * Keep track of timelines and performing hands-on remediations
 * Determine best course of action to deal with bottlenecks
-* Prioritize the risks for Meetup and keep efforts focused on high impact and high priority items
+* Prioritize the risks for Socialbakers and keep efforts focused on high impact and high priority items
 * Mentor engineers on security risks, concerns, and best practices
 * Educate upwards organizationally on security risks, trends, and concerns
 * Help to manage and communicate about serious incidents while they happen

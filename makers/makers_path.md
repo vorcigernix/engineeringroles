@@ -27,4 +27,4 @@ Makers focus on: software architecture and development that drives results
 * Partner with managers on adoption of process improvements
 
 ### Career Paths
-![alt text](https://github.com/meetup/engineering-roles/blob/master/paths.png "Career Paths")
+![alt text](https://github.com/Socialbakers/engineering-roles/blob/master/paths.png "Career Paths")

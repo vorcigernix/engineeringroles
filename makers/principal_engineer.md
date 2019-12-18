@@ -24,7 +24,7 @@ Principal Engineer
 * Work with individuals on breaking down large projects into smaller pieces so teams can deliver with improved speed and quality 
 
 #### Results
-* Focus on ensuring that all technical and architecture decisions are in service to Meetup achieving our company and team key results as fast and as well as possible
+* Focus on ensuring that all technical and architecture decisions are in service to Socialbakers achieving our company and team key results as fast and as well as possible
 * Coordinate with Engineering Leadership (meaning Directors, VPs, CTO) to roll out big engineering initiatives and improvements
 * Monitor performance of engineers in their practice area across teams in order to identify inefficiencies and suggest improvements to leads and managers
 * Take large technical projects and break them down into smaller parts for teams to execute
