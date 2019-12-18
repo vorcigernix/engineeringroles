@@ -1,4 +1,4 @@
-Makers focus on: software architecture and development that drives results
+Developers focus on: software architecture and development that drives results
 --------
 
 ### Architecture & framework & software development
@@ -7,7 +7,7 @@ Makers focus on: software architecture and development that drives results
 * All engineers: hands-on architecture and development into stack and product
 
 ### Best practices & architecture & code reviews
-* Architects ensure architecture reviews happen across product teams with PELs
+* Architects ensure architecture reviews happen across product teams
 * Architects ensure that best practices and style guides are documented, followed, and maintained
 * All engineers: ensure code/architecture reviews happen and that best practices and style guides are documented, followed, and maintained
 

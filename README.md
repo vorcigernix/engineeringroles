@@ -1,13 +1,13 @@
 This repo contains a list of Engineering titles, roles, and associated responsibilities:
 
-### [Developers](makers/developers_path.md)
+### [Developers](developers/developers_path.md)
 
-* [Level0](makers/intern.md)
-* [Level1](makers/level1.md)
-* [Level3](makers/level3.md)
-* [Level5](makers/level5.md)
-* [ValueStream Architect](makers/vsarchitect.md)
-* [System Architect](makers/systemarchitect.md)
+* [Level0](developers/intern.md)
+* [Level1](developers/level1.md)
+* [Level3](developers/level3.md)
+* [Level5](developers/level5.md)
+* [ValueStream Architect](developers/vsarchitect.md)
+* [System Architect](developers/systemarchitect.md)
 
 ### [Managers](managers/managers_path.md)
 
