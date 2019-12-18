@@ -1,4 +1,4 @@
-This repo contains a list of Engineering titles, roles, and associated responsibilities:
+This repo contains a list of Socialbakers Engineering titles, roles, and associated responsibilities, also known as The Ladder:
 
 ### [Developers](developers/developers_path.md)
 
@@ -16,3 +16,6 @@ This repo contains a list of Engineering titles, roles, and associated responsib
 * [Principal Director, Engineering](managers/principal_director_engineering.md)
 * [VP, Engineering](managers/vp_engineering.md)
 
+
+
+![alt text](ladder.gif "Chaos is a ladder")
