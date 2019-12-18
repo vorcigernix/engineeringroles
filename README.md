@@ -1,4 +1,7 @@
-This repo contains a list of Socialbakers Engineering titles, roles, and associated responsibilities, also known as The Ladder:
+This repo contains a list of Socialbakers Engineering titles, roles, and associated responsibilities, also known as The Ladder.
+
+![alt text](ladder.gif "Chaos is a ladder")
+
 
 ### [Developers](developers/developers_path.md)
 
@@ -18,4 +21,4 @@ This repo contains a list of Socialbakers Engineering titles, roles, and associa
 
 
 
-![alt text](ladder.gif "Chaos is a ladder")
+
