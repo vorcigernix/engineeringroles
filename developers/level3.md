@@ -34,6 +34,10 @@ Engineer L3
 * Monitor the outcomes of team’s actions to learn from mistakes and replicate successes
 * Interview prospective candidates and provide thoughtful evaluations and feedback
 
+### Practical examples
+* L3 is present on value stream meetings and understand the outcome and plans
+* L3 is helpful on feature refinements and planning meetings
+
 ### Red flags
 * Fails to identify or communicate big roadblocks
 * Us-vs-them attitude 

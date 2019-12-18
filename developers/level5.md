@@ -19,3 +19,8 @@ Engineer L5
 * Develop and constantly refine technical, leadership, and team fit assessments (coding exercises, interview questions, etc) for interviews across the Engineering organization
 * Lead code/design/architecture reviews across teams and mentor & coach engineers to ensure work follows best practices & standards. Create and evolve value stream wide practices and share with the rest of the organization
 * Acts as a mentor to other senior and staff engineers who are developing their own mentees
+
+### Practical examples
+* L5 is active on Value Steam meetings
+* L5 is most valueable person on feature refinements
+* L5 is the person raising alarm that some cross team dependencies are not resolved
