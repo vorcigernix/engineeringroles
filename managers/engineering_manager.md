@@ -4,7 +4,6 @@ Engineering Manager
 ## The Engineering Manager is accountable for building high performing teams.
 
 ### Accountabilities
-* *If the team has high cycle time[1] (above 5 days) it’s on the EM*
 * *If the team has low CvD[1] (under 90%) it’s on the EM*
 * *If the team has low commitment (below 70% of capacity) it’s on the EM*
 * *If the team isn’t continuously improving their process to deliver more effectively & reduce bottlenecks, it’s on the EM*
@@ -55,5 +54,5 @@ Engineering Manager
 #### Monitor & work to improve team health & morale
 * Actively work to help the team form & bond
 
-[1] Time between an engineer starting work on a story & it being live in production
+[1] CvD = committed versus delivered: metric showing the amount of stories team promised and delivered (according to definition of done)
 

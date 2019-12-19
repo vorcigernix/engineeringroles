@@ -2,7 +2,7 @@ Director, Engineering
 =====================
 
 ### Should have
-* At least 5 years experience both managing engineers and leading an engineering team.
+* Experience in both managing engineers and leading an engineering team.
 * Experience collaborating with leaders and stakeholders across the company to build a high level roadmap & vision for a team.
 * A deep understanding of how cross-functional product teams work at a software product company and experience managing such teams.
 * A desire to focus on managing other engineering managers, engineering leads, and staff engineers 

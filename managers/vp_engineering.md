@@ -25,9 +25,9 @@ VP, Engineering
 
  
 #### Strategy
-* Work closely with the CTO to communicate the priorities of the engineering team to company leadership, defining objectives and key results, and ensuring alignment across the company
-* Partner with Leadteam, CTO, Product, and Business to help design and clearly communicate a coordinated company vision, strategy, and priorities that every member of the engineering team understands
-* Partner with CTO to translate product and engineering vision, strategy, and priorities to clear and actionable platform engineering roadmap, objectives, and key results and frequently communicate out to the engineering team
+* Work closely with the CEO to communicate the priorities of the engineering team to company leadership, defining objectives and key results, and ensuring alignment across the company
+* Partner with Leadteam, CEO, Product, and Business to help design and clearly communicate a coordinated company vision, strategy, and priorities that every member of the engineering team understands
+* Partner with CEO to translate product and engineering vision, strategy, and priorities to clear and actionable platform engineering roadmap, objectives, and key results and frequently communicate out to the engineering team
 * Work with Engineering leadership to define, execute, and align on a unified technology strategy
 * Ensure engineers are empowered to accomplish technical projects that improve total product or platform health, while simultaneously balancing strategic product and platform engineering priorities
  
@@ -38,6 +38,6 @@ VP, Engineering
 * Be a sponsor for engineering leadership development
 * Work with Directors to create and ensure they’re moving along team development and organizational plans that are aligned with company vision, strategy, and priorities
 * Manage an engineering resourcing process and strategically plan for the needs of future vision, strategy, and priorities
-* Partner with CTO and Employee Experience to prioritize and lead engineering retention, recruiting, and branding strategy
+* Partner with CEO and Employee Experience to prioritize and lead engineering retention, recruiting, and branding strategy
 * Be an engaged part of the company leadership team setting strategy and results, and owning part of the engineering budget
-* Partner with the CTO to continuously improve the engineering team’s overall structure, organization, and delivery of results
+* Partner with the CEO to continuously improve the engineering team’s overall structure, organization, and delivery of results

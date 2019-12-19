@@ -15,13 +15,13 @@ Engineer L1
 ### Is expected to
 
 * Contribute meaningfully to the definition of stories
-* Pick up any story & suggest a solution for completing it
+* Pick up most of stories & suggest a solution for completing it
 * Lean into challenges when they offer the potential to create large impact, and does so with productivity and positivity
 * Be able to dive in to an area of the code/product that they’re not familiar with & make changes
 * Make sure their code is readable & easy to maintain
 * Make sure their code is tested appropriately
 * Review other engineers’ code and provide constructive feedback
-* Help grow the engineering team through involvement in the technology community (conferences, Socialbakerss, blog posts, open source projects, etc) and referrals
+* Help grow the engineering team through involvement in the technology community (conferences, Socialbakers, blog posts, open source projects, etc) and referrals
 * Monitor changes in production & rollback if necessary
 * Have production access and use it responsibly
 * Pair often and provide some guidance to more junior engineers
@@ -29,5 +29,8 @@ Engineer L1
 * Seek to tie stories back to user value & impact for our members & organizers
 
 ### Red flags
+* Often asks for guidance 
+* Stories return from QA more than once
+* Does not participate in team meetings
 
 ### Examples
