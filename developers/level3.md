@@ -23,6 +23,7 @@ Engineer L3
 * Be able to dive in to any area of the code/product that they’re not familiar with & make changes, guide others in how to do this
 * Show curiosity to not only learn new things but fully understand how they work
 * Be highly productive - have a reputation for getting things done quickly and efficiently
+* Be proactive in keeping codebase healthy
 * Be a mentor for other engineers
 * Capable of identifying and communicating the problems to be solved
 * Helping in breakdown of a problem into an executable action plan for themselves and other engineers 
@@ -33,6 +34,7 @@ Engineer L3
 * Work across engineering teams (dev, QA, devops) to ensure new code launches smoothly and customer needs are met
 * Monitor the outcomes of team’s actions to learn from mistakes and replicate successes
 * Interview prospective candidates and provide thoughtful evaluations and feedback
+
 
 ### Practical examples
 * L3 is present on value stream meetings and understand the outcome and plans
