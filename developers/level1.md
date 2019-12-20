@@ -33,4 +33,4 @@ Engineer L1
 * Stories return from QA more than once
 * Does not participate in team meetings
 
-### Examples
+### Practical Examples

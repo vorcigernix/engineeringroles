@@ -16,7 +16,10 @@ Engineering Manager
 
 ### Responsibilities
 #### Planning
-* Work with PM/PO/Designers and Architects to create key results for teams
+* Work with PM/PO/Designers and Architects to define key results for teams
+* Work with PM/PO, Designers, Architects and team to decompose a feature
+* Lead necessary tradeoff decisions with the PM, PO, Designer, and team
+
 #### Process
 * Evolve Agile approach to fit team and project needs.
 * Foster continuous improvement mindset amongst team
@@ -26,15 +29,14 @@ Engineering Manager
 * Work across engineering teams (dev, QA, devops) to ensure new code launches smoothly and customer needs are met
 #### Meetings
 * Guide effectiveness of team meetings. Ensure agendas/purpose are clear & actions captured. 
-#### Determine team/team makeup & hiring needs
-* Ensure team has the people and skill sets needed to achieve their goals
-* Recruit for the team 
-   * Source engineers
-   * Motivate engineers to speak, do presentations, write blog posts, and contribute to open source projects
-   * Participate in creating interview practice for Socialbakers engineering
-   * Update interview loops & training engineers to use them for hiring 
-   * Work with recruiting to ensure the loops run smoothly
-   * Create the engineer’s onboarding plan and work with other leaders to ensure engineers are successfully onboarded 
+
+#### Sprint coordination
+* Manage technical WIP & help with/raise blockers
+* Ensure engineers have clear focus
+* Ensure engineers pause to ask questions as necessary
+* Guide team in balance of addressing tech debt vs new features
+
+
 #### Management
 * Ensure engineers understand how the work they are doing ladders up to wider company goals
 * Ensure engineers have the skills needed to support their team
@@ -43,7 +45,7 @@ Engineering Manager
 * Deal with performance issues 
 * The ability to work with leadership during an emergency situation to identify and communicate impact and progress
 * Create compensation change recommendations and share with directors
-* Coach engineers career paths and personal growth in a way that lines up with teams goals
+* Coach engineers career paths and personal growth in a way that lines up with their education plans
    * Coach engineers to set personal goals & assist in defining steps to achieve them
    * Coach engineers to set goals that push them out of their comfort zone and promote growth
    * Be a sponsor for engineers so they have access to growth opportunities they wouldn’t otherwise have on their own
@@ -53,6 +55,11 @@ Engineering Manager
 
 #### Monitor & work to improve team health & morale
 * Actively work to help the team form & bond
+
+### Practical Examples
+* EM is present on every daily standup meeting making sure that daily operation of the team is proceeding smoothly
+* EM is facilitating discussion on feature refinement meetings and helping POs and team to shape the major fragments of work
+* EM is helping on sprint refinement meetings by facilitating discussion about tasks (stories and bugs)
 
 [1] CvD = committed versus delivered: metric showing the amount of stories team promised and delivered (according to definition of done)
 
