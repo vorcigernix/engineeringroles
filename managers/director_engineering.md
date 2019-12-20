@@ -12,6 +12,8 @@ Director, Engineering
 
 #### Director, Product Engineering should have
 * An excellent track record of partnering with product to build products that delight users
+* Extensive knowledge of product development methodologies, like Scrum, Kanban and HCD
+* General knowledge of technologies used in product development 
 
 #### Director, Platform Engineering should have
 * An excellent track record of partnering with product to build platform and infrastructure that enable product engineering to build fast and reliably.
@@ -45,7 +47,7 @@ Director, Engineering
 * Manage and coach Engineering Managers to be effective communicators and managers of their people.
 * Ensure that engineering managers and engineering leads are mentoring and managing teams effectively towards results
 * Help engineering managers create and support career development plans for direct reports
-* Be a sponsor for engineers’ development.
+* Be a sponsor for engineers development.
 * Be an exemplary model for optimism, bring solutions to surfaced problems, and coach others to do the same
 * Be an engaged part of the company leadership team setting policies, goals, and budgets
 * Partner with the Employee Experience team and lead strategy and vision for recruitment efforts for their business unit.
