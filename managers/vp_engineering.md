@@ -38,6 +38,6 @@ VP, Engineering
 * Be a sponsor for engineering leadership development
 * Work with Directors to create and ensure they’re moving along team development and organizational plans that are aligned with company vision, strategy, and priorities
 * Manage an engineering resourcing process and strategically plan for the needs of future vision, strategy, and priorities
-* Partner with CEO and Employee Experience to prioritize and lead engineering retention, recruiting, and branding strategy
+* Partner with CEO and Recruitment to prioritize and lead engineering retention, recruiting, and branding strategy
 * Be an engaged part of the company leadership team setting strategy and results, and owning part of the engineering budget
 * Partner with the CEO to continuously improve the engineering team’s overall structure, organization, and delivery of results

@@ -11,16 +11,14 @@ Director, Engineering
 * A deep understanding of engineering teams and architecture best practices across multiple disciplines (especially machine learning, analytics, data pipeline, core platform, and infrastructure engineering)
 
 #### Director, Product Engineering should have
-* An excellent track record of partnering with product to build products that delight users.
+* An excellent track record of partnering with product to build products that delight users
 
 #### Director, Platform Engineering should have
 * An excellent track record of partnering with product to build platform and infrastructure that enable product engineering to build fast and reliably.
 * Experience communicating the importance of platform and infrastructure to intelligent non-technical audiences 
-* General knowledge of cloud platforms and associated managed services.
+* General knowledge of cloud platforms and associated managed services
+* General knowledge of data processing infrastructure in Socialbakers
 
-#### Director, Machine Learning & Data should have
-* Experience building and operating data pipelines and warehouses at scale (distributed low-latency processing and native cloud solution experience a plus)
-* Experience effectively managing machine learning engineers and projects that deliver results, while clearly communicating ML techniques and process to intelligent non-technical audiences
 
 ### Is expected to
 
