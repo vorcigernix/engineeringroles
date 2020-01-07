@@ -5,7 +5,7 @@
 
 ### Should have
 
-* Successfully performed the role of an L1 at Socialbakers or equivalent role elsewhere
+* Successfully performed the role of an L2 at Socialbakers or equivalent role elsewhere
 * Performed work that was evaluated to be done at ‘high quality’ by peers
 * Demonstrated ability to collaborate well across teams
 * Succeeded as an engineer when presented with projects of increasing complexity over time across multiple areas or domains of the code/product

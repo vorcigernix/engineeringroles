@@ -5,13 +5,20 @@
 
 ### Should have
 
-* 
+* Great language competency in at least one programming language
+* General knowledge of software development environment in Socialbakers
 
 ### Is expected to
 
-
+* Lean into challenges when they offer the potential to create large impact, and does so with productivity and positivity
+* Help grow the engineering team through involvement in the technology community (conferences, Socialbakers, blog posts, open source projects, etc) and referrals
+* Pair often and provide some guidance to more junior engineers
+* Seek to tie stories back to user value & impact for our members & organizers
+* Be able to dive in to an area of the code/product that they’re not familiar with & make changes
+* Be among first who assign themselves to issues found during release testing
 
 ### Red flags
+* Quality of code is nor perceived as good
+* Not active in solving problems
 
 
-### Practical Examples
