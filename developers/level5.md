@@ -1,4 +1,5 @@
 # Engineer L5
+> You are capable of running your own startup, and you are in a sense - just inside Socialbakers. You know what your friends in Product needs, you understand why and you help other team members to reach the solution as fast as possible. You don't overengineer solutions and you create a good platform for future growth.
 
 *Same as L3,L4 and...*
 
@@ -24,7 +25,7 @@
 ### Red flags
 * Fails to identify and remove big roadblocks
 * Crunch time in the team
-* Tries to inforce his views on solution 
+* Tries to enforce his views on solution 
 
 ### Practical examples
 * L5 is active on Value Steam meetings
