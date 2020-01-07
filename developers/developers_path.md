@@ -27,7 +27,7 @@
 
 ## Level Up
 
-| Current Level 	| Generally 	| Also         	                    	         	|
+| Current Level 	| Generally 	| Also         	|                    	|         	|
 |---------------	|-----------	|--------------	|--------------------	|---------	|
 | L0            	| L1        	| L2           	| L3                 	|         	|
 | L1            	| L2        	| L3           	|                    	|         	|
