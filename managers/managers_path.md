@@ -63,7 +63,7 @@ Leaders focus on the key inputs for their business and deliver them with the rig
 
 ## Level Up
 
-| Current Level 	| Generally 	| Also         	                    	         	|
+| Current Level 	| Generally 	| Also         	|                    	|         	|
 |---------------	|-----------	|--------------	|--------------------	|---------	|
 | L0            	| L1        	| L2           	| L3                 	|         	|
 | L1            	| L2        	| L3           	|                    	|         	|
