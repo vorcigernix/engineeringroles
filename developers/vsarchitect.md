@@ -1,6 +1,5 @@
-Value Stream Architect
-========================
- 
+# Value Stream Architect
+> Architect is mainly responsible for knowledge sharing. We need you to share the value stream architecture knowledge across teams, in value stream meetings and in refinement meetings. 
 
  
 ### Should have
@@ -16,7 +15,7 @@ Value Stream Architect
 * Build consensus and drive forward big technical decisions within the practice area and across the engineering team with other practice areas
 * Teach and mentor engineers in technical growth and learning
 * Monitor skills and capabilities of individuals across their discipline and suggest to leadership areas people are exceeding expectations/ready for promotion and could improve/grow
-* Frequently consult with  engineers, leads, and product on technical solutions
+* Frequently consult with engineers, leads, and product on technical solutions
 * Ensure regular architecture reviews with engineers happen and provide constructive feedback during those reviews
 * Do or delegate development of frameworks, foundational, and complex parts of the code base
 * Do or delegate documentation of technical architecture, tools, and other tech specifications that an engineer would need to effectively do their job

@@ -1,5 +1,4 @@
-Developers focus on: software architecture and development that drives results
---------
+# Developers focus on: software architecture and development that drives results
 
 ### Architecture & framework & software development
 * Architects lead researching new frameworks and technologies with other engineers
@@ -25,3 +24,17 @@ Developers focus on: software architecture and development that drives results
 ### Recommend process improvements & support adoption
 * Recommend process improvements that improve quality and speed to managers and teams
 * Partner with managers on adoption of process improvements
+
+## Level Up
+
+| Current Level 	| Generally 	| Also         	                    	         	|
+|---------------	|-----------	|--------------	|--------------------	|---------	|
+| L0            	| L1        	| L2           	| L3                 	|         	|
+| L1            	| L2        	| L3           	|                    	|         	|
+| L2            	| L3        	|              	|                    	|         	|
+| L3            	| L5        	| VS Architect 	| Solution Architect 	| Manager 	|
+| L5            	| -         	| VS Architect 	| Solution Architect 	| Manager 	|
+| Manager       	| Director  	| Principal    	| VP                 	|         	|
+| Director      	| Principal 	| VP           	|                    	|         	|
+
+> Table is illustrational, not process setting

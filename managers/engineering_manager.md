@@ -1,5 +1,4 @@
-Engineering Manager
-===================
+# Engineering Manager
 
 ## The Engineering Manager is accountable for building high performing teams.
 

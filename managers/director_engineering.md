@@ -1,5 +1,4 @@
-Director, Engineering
-=====================
+# Director, Engineering
 
 ### Should have
 * Experience in both managing engineers and leading an engineering team.

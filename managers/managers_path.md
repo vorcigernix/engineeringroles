@@ -1,5 +1,4 @@
-Managers focus on: team management and development that drives results
---------
+# Managers focus on: team management and development that drives results
 
 ### Performance evaluation
 * Regularly collect and provide feedback to engineers in 1:1s
@@ -62,3 +61,16 @@ Leaders are obligated to respectfully challenge decisions when they disagree, ev
 
 Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.
 
+## Level Up
+
+| Current Level 	| Generally 	| Also         	                    	         	|
+|---------------	|-----------	|--------------	|--------------------	|---------	|
+| L0            	| L1        	| L2           	| L3                 	|         	|
+| L1            	| L2        	| L3           	|                    	|         	|
+| L2            	| L3        	|              	|                    	|         	|
+| L3            	| L5        	| VS Architect 	| Solution Architect 	| Manager 	|
+| L5            	| -         	| VS Architect 	| Solution Architect 	| Manager 	|
+| Manager       	| Director  	| Principal    	| VP                 	|         	|
+| Director      	| Principal 	| VP           	|                    	|         	|
+
+> Table is illustrational, not process setting
