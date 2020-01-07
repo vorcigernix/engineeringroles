@@ -1,5 +1,5 @@
-Engineer L3
-===============
+# Engineer L3
+
 
 *Same as L1, L2, but also...*
 
@@ -25,6 +25,7 @@ Engineer L3
 * Be highly productive - have a reputation for getting things done quickly and efficiently
 * Be proactive in keeping codebase healthy
 * Be a mentor for other engineers
+* Make an extra effort if the team runs into crunch time
 * Capable of identifying and communicating the problems to be solved
 * Helping in breakdown of a problem into an executable action plan for themselves and other engineers 
 * Consistently tie back a project to a team goal
@@ -46,3 +47,4 @@ Engineer L3
 * Continually underestimates timelines
 * Doesn’t take operational excellence seriously
 * Solutions are more complicated than necessary
+* Never work more than expected

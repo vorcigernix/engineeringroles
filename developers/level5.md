@@ -1,5 +1,4 @@
-Engineer L5
-==============
+# Engineer L5
 
 *Same as L3,L4 and...*
 
@@ -21,6 +20,11 @@ Engineer L5
 * Be accountable for keeping codebase aligned with best practices
 * Create and evolve value stream wide practices and share with the rest of the organization
 * Acts as a mentor to other senior and staff engineers who are developing their own mentees
+
+### Red flags
+* Fails to identify and remove big roadblocks
+* Crunch time in the team
+* Tries to inforce his views on solution 
 
 ### Practical examples
 * L5 is active on Value Steam meetings

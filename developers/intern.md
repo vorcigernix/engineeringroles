@@ -1,5 +1,6 @@
-Intern&Probation
-----------------------
+# Intern&Probation
+> On this level, you are better than 80% of programmers around. They didn't made it to this level. What we expect from you is that you gain the general knowledge of Socialbakers systems soon and you will level up to 1. We have a limited capacity needed to this job level and we do not plan to keep this level as a long term
+
 
 ### Should have
 * Learning core language competency in at least one language
