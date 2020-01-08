@@ -20,6 +20,7 @@
 * Make sure their code is tested appropriately
 * Review other engineers’ code, usually within the same value stream and provide constructive feedback
 * Have development repository access and use it responsibly
+* Reach goals specified in education plan and successfully present them on team level
 
 ### Red flags
 * Often asks for guidance 

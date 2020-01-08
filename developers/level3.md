@@ -33,6 +33,7 @@
 * Be able to communicate well with all engineers regardless of seniority
 * Work across engineering teams (dev, QA, devops) to ensure new code launches smoothly and customer needs are met
 * Monitor the outcomes of team’s actions to learn from mistakes and replicate successes
+* Reach goals specified in education plan and successfully present them on engineering level
 * Interview prospective candidates and provide thoughtful evaluations and feedback
 
 

@@ -21,6 +21,7 @@
 * Be accountable for keeping codebase aligned with best practices
 * Create and evolve value stream wide practices and share with the rest of the organization
 * Acts as a mentor to other senior and staff engineers who are developing their own mentees
+* Reach goals specified in education plan and successfully present them on company level
 
 ### Red flags
 * Fails to identify and remove big roadblocks

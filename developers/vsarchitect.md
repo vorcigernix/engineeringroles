@@ -20,6 +20,7 @@
 * Do or delegate development of frameworks, foundational, and complex parts of the code base
 * Do or delegate documentation of technical architecture, tools, and other tech specifications that an engineer would need to effectively do their job
 * Work with individuals on breaking down large projects into smaller pieces so teams can deliver with improved speed and quality 
+* Reach goals specified in education plan and successfully present them publicly
 
 #### Results
 * Focus on ensuring that all technical and architecture decisions are good fit for Socialbakers 
