@@ -10,7 +10,7 @@
 
 ### Is expected to
 
-* Lean into challenges when they offer the potential to create large impact, and does so with productivity and positivity
+* Lean into challenges when they offer the potential to create large impact
 * Help grow the engineering team through involvement in the technology community (conferences, Socialbakers, blog posts, open source projects, etc) and referrals
 * Pair often and provide some guidance to more junior engineers
 * Seek to tie stories back to user value & impact for our members & organizers

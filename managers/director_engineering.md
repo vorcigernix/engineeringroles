@@ -25,17 +25,17 @@
 
 #### Strategy
 * Collaborate with engineering and cross-discipline leadership to:
-    * develop and communicate the vision, high level roadmap & technical strategy for their business unit based on company goals.
+    * develop and communicate the vision, high level roadmap & technical strategy for their business unit based on company goals
     * spin up, spin down and staff teams in their business unit as appropriate.
-* Ensure every engineer on their teams understands why their project is important to their business unit and company goals.
+* Ensure every engineer on their teams understands why their project is important to their business unit and company goals
 * Delegate parts of large projects to others and keep teams collectively focused and on track
-* Guide the architecture of their teams to ensure it fits the goals of their business unit as well as the best practices set out by the collectives.
+* Guide the architecture of their teams to ensure it fits the goals of their business unit as well as the best practices set out by the collectives
 * Ensure that all decisions are in service of Socialbakers’s members and organizers
 * Guide the quality & testing strategy of their biz unit
 
 #### Results
-* Ensure their teams are setting aggressive OKRs and delivery goals and executing quickly, effectively, and healthily towards delivering results.
-* Monitor performance, impact, execution and delivery across all their teams, identify risks and solutions, and drive improvements with engineers and managers.
+* Ensure their teams are setting aggressive OKRs and delivery goals and executing quickly, effectively, and healthily towards delivering results
+* Monitor performance, impact, execution and delivery across all their teams, identify risks and solutions, and drive improvements with engineers and managers
 * Build a culture rewarding strategic failure as well as success.
 * Regularly provide clear, actionable feedback in all directions, and find the appropriate group venues to do so
 * Build consensus and drive forward big decisions within their business unit and across the organization
@@ -46,7 +46,7 @@
 * Manage and coach Engineering Managers to be effective communicators and managers of their people.
 * Ensure that engineering managers and engineering leads are mentoring and managing teams effectively towards results
 * Help engineering managers create and support career development plans for direct reports
-* Be a sponsor for engineers development.
+* Be a sponsor for engineers development
 * Be an exemplary model for optimism, bring solutions to surfaced problems, and coach others to do the same
 * Be an engaged part of the company leadership team setting policies, goals, and budgets
-* Partner with the Employee Experience team and lead strategy and vision for recruitment efforts for their business unit.
+* Partner with the Employee Experience team and lead strategy and vision for recruitment efforts for their business unit

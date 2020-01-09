@@ -14,8 +14,8 @@
 * Demonstrated ability to anticipate how contributions can affect larger architecture, developing risk mitigation and contingency plans
 * A high level of understanding about where their work fits in and how to be useful and successful on their team
 * A high level of craftsmanship about their work, the end experience of the user, and impact on overall product
-* Demonstrated excellent communication skills with technical and non-technical teammates and shows a high level of emotional and professional maturity.
-* Proposes solutions when articulating problems
+* Demonstrated an open minded attitude to solutions presented by product and design and help to iterate and improve those solutions
+* 
 
 ### Is expected to
 
@@ -47,4 +47,4 @@
 * Continually underestimates timelines
 * Doesn’t take operational excellence seriously
 * Solutions are more complicated than necessary
-* Never work more than expected
+* Does not take sprints seriously and does not deliver promised value

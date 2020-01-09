@@ -1,4 +1,4 @@
-# Developers focus on development that drives results
+# Engineers focus on development that drives results
 
 ### Architecture & framework & software development
 * Architects lead researching new frameworks and technologies with other engineers

@@ -7,6 +7,7 @@ This repo contains a list of Socialbakers Engineering titles, roles, and associa
 
 * [Level0](developers/intern.md)
 * [Level1](developers/level1.md)
+* [Level2](developers/level2.md)
 * [Level3](developers/level3.md)
 * [Level5](developers/level5.md)
 * [ValueStream Architect](developers/vsarchitect.md)

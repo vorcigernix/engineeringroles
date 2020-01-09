@@ -32,7 +32,7 @@
 * Identify the engineering improvements with highest impact to company/engineering goals and collaborate with Engineering Leadership to define a solution and roadmap for execution
 * Collaborate with Engineering Leadership to roll out large technical initiatives and improvements across the entire engineering team, including identifying engineers who are good candidates to grow their leadership skills to own parts of initiatives
 * Monitor skills and capabilities of engineers across all teams and suggest to Directors and EMs areas people are exceeding expectations/ready for promotion and could improve/grow
-* Be an exemplary model for optimism, bringing solutions to surfaced problems, and coaching others to do the same
+* Be an exemplary model for active and positive mindset, bringing solutions to surfaced problems, and coaching others to do the same
 
 #### Strategy
 * Mentor and support engineers towards architecting and building with high quality, simplicity, continuous iteration and experimentation, and speed of launching to production

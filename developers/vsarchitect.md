@@ -29,7 +29,7 @@
 * Delegate parts of large engineering projects to others and keep teams collectively focused and on track
 * Identify the Product codebase improvements with highest impact and collaborate with Engineering Leadership to define a solution and roadmap for execution
 * Coordinate with Engineering Leadership to roll out big initiatives and improvements across the entire engineering team
-* Be an exemplary model for optimism, bringing solutions to surfaced problems, and coaching others to do the same
+* Be an exemplary model for active and positive mindset, bringing solutions to surfaced problems, and coaching others to do the same
  
 #### Strategy
 * Communicate clear vision and direction for technical decisions of the practice area across the company
