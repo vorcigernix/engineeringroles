@@ -1,4 +1,4 @@
-# Developers focus on: software architecture and development that drives results
+# Developers focus on development that drives results
 
 ### Architecture & framework & software development
 * Architects lead researching new frameworks and technologies with other engineers
@@ -26,6 +26,7 @@
 * Partner with managers on adoption of process improvements
 
 ## Level Up
+this is a general carrer path, where you can see the most obvious next level in Generally column 
 
 | Current Level 	| Generally 	| Also         	|                    	|         	|
 |---------------	|-----------	|--------------	|--------------------	|---------	|
