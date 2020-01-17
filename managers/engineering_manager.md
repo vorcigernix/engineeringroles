@@ -42,6 +42,7 @@
 * Ensure engineers are focussed on the sprint & stories at hand
 * Deal with team interpersonal issues
 * Deal with performance issues 
+* Solving, not creating problems
 * The ability to work with leadership during an emergency situation to identify and communicate impact and progress
 * Create compensation change recommendations and share with directors
 * Coach engineers career paths and personal growth in a way that lines up with their education plans
