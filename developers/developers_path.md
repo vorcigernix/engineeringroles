@@ -7,12 +7,28 @@
 
 | scope/level    | Level 0 | Level 1 | Level 2 | Level 3 | Level 4 |
 |----------------|---------|---------|---------|---------|---------|
-| delivery CODE  |    0    |    1    |    2    |    3    |    4    |
+| delivery CODE  |   0-1   |    1    |    2    |    3    |    4    |
 | delivery CI/CD |   0-1   |    1    |   1-2   |   2-3   |   3-4   |
 | delivery QA    |   0-1   |    1    |   1-2   |   2-3   |   3-4   |
-| leadership     |   0-1   |   0-1   |   1-2   |   1-3   |   2-4   |
-| communication  |   0-1   |   1-2   |   2-3   |   2-4   |   3-4   |
-| **min SUM**    |  **3**  |  **5**  |  **8**  |  **12** |  **17** |
+| contribution   |   0-1   |   0-1   |   1-2   |   2-4   |   3-4   |
+| leadership     |   0-1   |   0-1   |   0-2   |   1-3   |   2-4   |
+| communication  |   0-1   |    1    |   1-2   |   2-3   |   3-4   |
+| **min SUM**    |  **2**  |  **5**  |  **8**  |  **14** |  **20** |
+
+- sum calculation:
+
+```javascript
+// for level 1:
+let scopes = [
+ { min: 1, max: 1}, 
+ { min: 1, max: 1},  
+ { min: 1, max: 1}, 
+ { min: 0, max: 1}, 
+ { min: 0, max: 1},
+ { min: 1, max: 1}
+];
+let sum = Math.round(scopes.reduce((total, scope) => total + scope.min + (scope.max - scope.min)/4,0));
+```
 
 ### Sum boosts (perks)
 
@@ -27,11 +43,11 @@
 
 | resp/level    | Level 0 | Level 1 | Level 2 | Level 3 | Level 4 |
 |---------------|---------|---------|---------|---------|---------|
-| coding        |   yes   |   yes   |   yes   |   yes   |   yes   |
-| code review   |   no    |   yes   |   yes   |   yes   |   yes   |
+| value delivery|   no    |   yes   |   yes   |   yes   |   yes   |
+| code review   |   no    |   no    |   yes   |   yes   |   yes   |
 | AC analysis   |   no    |   no    |   yes   |   yes   |   yes   |
 | mentoring     |   no    |   no    |   no    |   yes   |   yes   |
-| tech research |   no    |   no    |   yes   |   yes   |   yes   |
+| tech research |   no    |   no    |   no    |   yes   |   yes   |
 | processes     |   no    |   no    |   no    |   no    |   yes   |
 
 
@@ -40,11 +56,11 @@
 ### Level 0
 
 #### Description
-* A person who is constantly reinventing, learning and improving in order to be able to work on the product and deliver values
+* A person who is constantly reinventing, learning and improving in order to be able to work on the product and start deliver values
 
 #### Essential skills
 * Basic knowledge of software engineering
-* Writing readable/testable code
+* Writing of a readable/testable code
 * Continuous learning
 * Measurable progress
 * Learning from mistakes
@@ -66,8 +82,7 @@
 #### Essential skills
 * Core knowledge of software engineering
 * Core knowledge of the stack and the product
-* Writing efficient code and tests
-* Contribution to user-story ACs
+* Writing of an efficient code and tests
 * Pointing out setbacks in meetings
 * Reaching goals specified in education plan
 
@@ -91,9 +106,9 @@
 * Advanced knowledge of software engineering
 * Deep knowledge of the stack and the product
 * Very good collaboration with a team
+* Contribution to user-story ACs
 * Reviewing other engineers' code
-* Providing constructive feedback
-* Reaching sprint goals
+* Reaches sprint goals
 
 #### Nice-to-have skills
 * Community involvement
@@ -115,7 +130,6 @@
 * Presented with projects of increasing complexity over time across multiple areas or domains of the code/product
 * Dives into new areas and suggests innovations
 * Provides guidance to junior developers
-* High level of trust
 * Keeps the codebase healthy
 
 #### Nice-to-have skills
@@ -138,11 +152,9 @@
 #### Essential skills
 * Very good knowledge of software engineering, design patterns and solution architecture
 * Is accountable for keeping codebase aligned with best practices
-* Delivering high quality features 
-* Leads code/design/architecture reviews
+* Ability to make changes that affect larger architecture
 * Reviews technical, leadership and team fit assessments
 * Strategic initiative in a value stream
-* Evolves value stream wide practices and shares with the rest of the organization
 
 #### Nice-to-have skills
 * Support, advocate, and sponsor for others to take leadership
