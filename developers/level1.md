@@ -1,6 +1,34 @@
 # Engineer L1
 > You made it to Level 1. This is good. It does not mean you are a bad programmer, on contrary. We expect a lot from our L1 programmers. You are independent, skilled developer capable of writing a good code.
 
+### Title
+* Junior product engineer
+
+### Role description
+* Developer who works on the product and delivers value
+
+### Essential skills
+* Core knowledge of software engineering
+* Core knowledge of the stack and the product
+* Writing efficient code and tests
+* Contribution to user-story ACs
+* Pointing out setbacks in meetings
+* Reaching goals specified in education plan
+
+### Nice-to-have skills
+* Good organizing skills
+* Good collaboration with a team
+* Reviewing other engineers' code
+* Providing constructive feedback
+* Proactive in meetings
+
+### Setbacks
+* Many stories returned from QA
+* Often asks for guidance
+
+## OLD DESC
+
+
 ### Should have
 
 * Successfully performed the role of an Engineer at Socialbakers or equivalent role elsewhere

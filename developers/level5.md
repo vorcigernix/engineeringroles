@@ -3,6 +3,35 @@
 
 *Same as L3 and...*
 
+### Title
+*  Lead Product engineer
+
+### Role description
+* Save-the-day person who has a significant impact on the product, the team, the community, and keeps the wheel going by participating on innovations, newbies guidance and important architectural decisions
+
+### Essential skills
+* Very good knowledge of software engineering, design patterns and solution architecture
+* Is accountable for keeping codebase aligned with best practices
+* Delivering high quality features 
+* Leads code/design/architecture reviews
+* Reviews technical, leadership and team fit assessments
+* Strategic initiative in a value stream
+* Evolves value stream wide practices and shares with the rest of the organization
+
+### Nice-to-have skills
+* Support, advocate, and sponsor for others to take leadership
+* Works with senior managers & directors to ensure engineering effort is focussed on the most impactful areas for their value stream
+* Tracks feature progress across the value stream
+* Interview prospective candidates and provide thoughtful evaluations and feedback
+* Acts as a mentor to other senior and staff engineers who are developing their own mentees
+
+### Setbacks
+* Crunch time in the team
+* Enforce his views on solution
+* Doesn't maintain asshole-free environment
+
+## OLD DESC
+
 ### Should have
 * The ability to take a strategic initiative in a value stream, helping in definition of features value and work with teams to assign ownership and priority to those projects.
 * The respect and trust of leadership within the company as a strong technical resource for collaborative decisions

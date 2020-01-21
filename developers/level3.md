@@ -3,6 +3,34 @@
 
 *Same as L1, L2, but also...*
 
+### Title
+*  Senior Product engineer
+
+### Role description
+* Developer who knows his stuff and is a good resource for help and guidance
+
+### Essential skills
+* Deep knowledge of software engineering
+* Very good knowledge of the stack and the product
+* Presented with projects of increasing complexity over time across multiple areas or domains of the code/product
+* Dives into new areas and suggests innovations
+* Provides guidance to junior developers
+* High level of trust
+* Keeps the codebase healthy
+
+### Nice-to-have skills
+* Monitor the outcomes of team’s actions
+* Ability to make changes that affect larger architecture
+* Participates in frequent code/design/architecture reviews
+* Interview prospective candidates and provide thoughtful evaluations and feedback
+
+### Setbacks
+* Fails to identify or communicate big roadblocks
+* Underestimates timelines
+* Doesn’t take operational excellence seriously
+
+## OLD DESC
+
 ### Should have
 
 * Successfully performed the role of an L2 at Socialbakers or equivalent role elsewhere

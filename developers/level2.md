@@ -1,6 +1,35 @@
 # Engineer L2
 > You made it to Level 2. This is more of a transitional level. We see a capability to move to L3, but you are not there yet.
 
+
+
+### Title
+*  Product engineer
+
+### Role description
+* Developer who delivers high-quality value and reaches sprint goals
+
+### Essential skills
+* Advanced knowledge of software engineering
+* Deep knowledge of the stack and the product
+* Very good collaboration with a team
+* Reviewing other engineers' code
+* Providing constructive feedback
+* Reaching sprint goals
+
+### Nice-to-have skills
+* Community involvement
+* Provides guidance to junior developers
+* Dives into new areas and suggests innovations
+
+### Setbacks
+* Poor communication with a team
+* Not active in problem-solving
+
+## OLD DESC
+
+
+
 *Same as L1 but also...*
 
 ### Should have

@@ -39,3 +39,21 @@ this is a general carrer path, where you can see the most obvious next level in 
 | Director      	| Principal 	| VP           	|                    	|         	|
 
 > Table is illustrational, not process setting
+
+## Level table
+
+| scope/level    | Level 0 | Level 1 | Level 2 | Level 3 | Level 4 |
+|----------------|---------|---------|---------|---------|---------|
+| delivery CODE  |    0    |    1    |    2    |    3    |    4    |
+| delivery CI/CD |   0-1   |    1    |   1-2   |   2-3   |   3-4   |
+| delivery QA    |   0-1   |    1    |   1-2   |   2-3   |   3-4   |
+| leadership     |   0-1   |   0-1   |   1-2   |   1-3   |   2-4   |
+| communication  |   0-1   |   1-2   |   2-3   |   2-4   |   3-4   |
+| min SUM        |    3    |    5    |    8    |    12   |    17   |
+
+### Sum boosts (perks)
+
+- meetup talks: +1
+- conference talks: +2
+- regular duty person: +1
+- hackaton organizer: +1

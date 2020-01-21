@@ -1,6 +1,29 @@
 # Intern&Probation
 > You are good. Only 20% of candidates pass socialbakers interview. What we expect from you is that you gain the general knowledge of Socialbakers systems soon and you will level up to 1. We have a limited capacity needed to this job level and we do not plan to keep this level as a long term. This level is expected to be mentored by more experienced developer.
 
+### Title
+* Internship developer
+
+### Role description
+* A person who is constantly reinventing, learning and improving in order to be able to work on the product and deliver values
+
+### Essential skills
+* Basic knowledge of software engineering
+* Writing readable/testable code
+* Continuous learning
+* Measurable progress
+* Learning from mistakes
+
+### Nice-to-have skills
+* Good communication
+* Thirst for knowledge
+
+### Setbacks
+* No significant progress
+* No motivation
+* Poor code quality
+
+## OLD DESC
 
 ### Should have
 * Competency to learn at least one programming language
