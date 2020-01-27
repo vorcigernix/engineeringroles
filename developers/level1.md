@@ -1,19 +1,24 @@
 # Engineer L1
-> You made it to Level 1. This is good. It does not mean you are a bad programmer, on contrary. We expect a lot from our L1 programmers. You are independent, skilled developer capable of writing a good code.
+> Congratulations on your L1! We expect a lot from our L1 devs, and believe you are up to the task: you have proven you are an independent, skilled developer capable of writing code to our standards.
 
-### Should have
+> As an L1 dev, you:
+
+### Must have
 
 * Successfully performed the role of an Engineer at Socialbakers or equivalent role elsewhere
 * Core language competency in at least one programming language
-* Experience working on a team in a professional setting
-* Demonstrated ability to collaborate well with a team
-* Demonstrated ability to learn from mistakes
+* Demonstrated good communication and collaboration with teammates
+* Demonstrated ability to learn from mistakes, as well as showing a good degree of emotional and professional maturity
 * Demonstrated ability to unblock themselves, asks for help where necessary
-* Demonstrated good communication skills with teammates and shows a good degree of emotional and professional maturity
 
 ### Is expected to
 
-* Contribute meaningfully to the definition of stories
+* Contribute meaningfully to the definition and completion of stories
+* Handle and change code outside their main responsibly
+*
+
+
+*
 * Pick up most of stories & suggest a solution for completing it
 * Be able to dive in to an area of the code/product that they’re not their main responsibility & make changes
 * Make sure their code is readable & easy to maintain
@@ -23,7 +28,7 @@
 * Reach goals specified in education plan and successfully present them on team level
 
 ### Red flags
-* Often asks for guidance 
+* Often asks for guidance
 * Stories return from QA more than once
 * Does not participate in team meetings
 
