@@ -6,9 +6,16 @@
 ### Must have
 
 * Successfully performed the role of an Engineer at Socialbakers or equivalent role elsewhere
+<<<<<<< HEAD
 * Core language competency in at least one programming language
 * Demonstrated good communication and collaboration with teammates
 * Demonstrated ability to learn from mistakes, as well as showing a good degree of emotional and professional maturity
+=======
+* Core language competency in a javascript programming language
+* Experience working on a team in a professional setting
+* Demonstrated ability to collaborate well with a team
+* Demonstrated ability to learn from mistakes
+>>>>>>> 3f19c9d4a5abe1aaf10263a9c9ddb41f8e37df23
 * Demonstrated ability to unblock themselves, asks for help where necessary
 
 ### Is expected to
@@ -28,8 +35,13 @@
 * Reach goals specified in education plan and successfully present them on team level
 
 ### Red flags
+<<<<<<< HEAD
 * Often asks for guidance
 * Stories return from QA more than once
+=======
+* Often asks for guidance when solution can be found easily
+* Stories are delivered without test coverage and as a result are returned from QA repeatedly
+>>>>>>> 3f19c9d4a5abe1aaf10263a9c9ddb41f8e37df23
 * Does not participate in team meetings
 
 ### Practical Examples
