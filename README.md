@@ -4,16 +4,16 @@ This repo contains a list of Socialbakers Engineering titles, roles, and associa
 
 | scope/level    | Level 0 | Level 1 | Level 2 | Level 3 | Level 4 |
 |----------------|---------|---------|---------|---------|---------|
-| coding         |   0-1   |    1    |    2    |    3    |    4    |
-| contribution   |   0-1   |   0-1   |   1-2   |   2-4   |   3-4   |
-| leadership     |   0-1   |   0-1   |   0-2   |   1-3   |   2-4   |
+| delivery         |   0-1   |    1    |    2    |    3    |    4    |
+| domain expertise   |   0-1   |   0-1   |   1-2   |   2-4   |   3-4   |
+| problem solving     |   0-1   |   0-1   |   0-2   |   1-3   |   2-4   |
+| communication  |   0-1   |    1    |   1-2   |   2-3   |   3-4   |
 | communication  |   0-1   |    1    |   1-2   |   2-3   |   3-4   |
 | **min SUM**    |  **2**  |  **5**  |  **8**  |  **14** |  **20** |
 
-Also, Ladder does not introduce a hierarchy. Responsibility for a delivering value is on the whole team and all levels of the developers are equal - the goal of ladder is establishing a road for career development, to set an expectations and give a points to disuss on regular 1-1 meetings.
+> Also, Ladder does not introduce a hierarchy. Responsibility for a delivering value is on the whole team and all levels of the developers are equal - the goal of ladder is establishing a road for career development, to set an expectations and give a points to disuss on regular 1-1 meetings.
 
-> As a additional metric to the Ladder, we have a system of Perks, currently under the development. Badges will mark exceptional qualities not described in the Ladder, usually a technical abilities like deep knowledge of Elastic or being an ambassador of BDD aproach.
-
+> As a additional metric to the Ladder, we have a system of Badges, currently under the development. Badges will mark exceptional qualities not described in the Ladder, usually a technical abilities like deep knowledge of Elastic or being an ambassador of BDD aproach.
 
 
 
@@ -34,6 +34,7 @@ Also, Ladder does not introduce a hierarchy. Responsibility for a delivering val
 * [Director, Engineering](managers/director_engineering.md)
 * [Principal Director, Engineering](managers/principal_director_engineering.md)
 * [VP, Engineering](managers/vp_engineering.md)
+
 
 
 
