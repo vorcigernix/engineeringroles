@@ -8,18 +8,18 @@ Mastery of a competency is cumulative. At each successive level, engineers are e
 **Example Skills:** Scoping and prioritization, Testing and monitoring, Shipping to production, Initiative
 <table>
     <thead>
-        <th style="width:20%;">Beginner</th>
-        <th style="width:20%;">Intermediate</th>
-        <th style="width:20%;">Advanced</th>
-        <th style="width:20%;">Expert</th>
-        <th style="width:20%;">Leading Expert</th>
+        <th style="width:20%;">0</th>
+        <th style="width:20%;">1</th>
+        <th style="width:20%;">2</th>
+        <th style="width:20%;">3</th>
+        <th style="width:20%;">4</th>
     </thead>
     <tbody>
         <tr>
             <td valign="top">
                 <ul>
                     <li>You understand scope of work before taking on tasks.</li>
-                    <li>You test your work following relevant examples.</li>
+                    <li>You test your work following acceptance criteria.</li>
                     <li>You take ownership of your work after it's released and quickly address issues as they arise.</li>
                     <li>You collect and incorporate feedback (such as code reviews) to ship your work.</li>
                     <li>You follow your team's best practices to bring your work to production.</li>
@@ -28,7 +28,7 @@ Mastery of a competency is cumulative. At each successive level, engineers are e
             </td>
             <td valign="top">
                 <ul>
-                    <li>You estimate accurate timelines for tasks and deliver work at a steady, predictable pace to hit your deadlines.</li>
+                    <li>You can estimate size of the tasks and deliver work at a steady, predictable pace.</li>
                     <li>You effectively use a variety of testing methods and monitoring tools to ensure the quality and production readiness of your work before and after release.</li>
                     <li>You consider and build for many different use cases but avoid over engineering.</li>
                     <li>You ship complete solutions, but release them in small, safe patches.</li>
@@ -71,11 +71,11 @@ Mastery of a competency is cumulative. At each successive level, engineers are e
 **Example Skills:** Knowledge of your discipline (e.g. Payments, AppSec, Provisioning, Machine Learning), Language, Tools, Business and product sense
 <table>
     <thead>
-        <th style="width:20%;">Beginner</th>
-        <th style="width:20%;">Intermediate</th>
-        <th style="width:20%;">Advanced</th>
-        <th style="width:20%;">Expert</th>
-        <th style="width:20%;">Leading Expert</th>
+        <th style="width:20%;">0</th>
+        <th style="width:20%;">1</th>
+        <th style="width:20%;">2</th>
+        <th style="width:20%;">3</th>
+        <th style="width:20%;">4</th>
     </thead>
     <tbody>
         <tr>
@@ -128,11 +128,11 @@ Mastery of a competency is cumulative. At each successive level, engineers are e
 **Example Skills:** Architecture &amp; design patterns, Breaking down large problems, Critical thinking, Analytical skills, Creativity, Decision making
 <table>
     <thead>
-        <th style="width:20%;">Beginner</th>
-        <th style="width:20%;">Intermediate</th>
-        <th style="width:20%;">Advanced</th>
-        <th style="width:20%;">Expert</th>
-        <th style="width:20%;">Leading Expert</th>
+        <th style="width:20%;">0</th>
+        <th style="width:20%;">1</th>
+        <th style="width:20%;">2</th>
+        <th style="width:20%;">3</th>
+        <th style="width:20%;">4</th>
     </thead>
     <tbody>
         <tr>
@@ -190,11 +190,11 @@ Mastery of a competency is cumulative. At each successive level, engineers are e
 **Example Skills:** Documentation, Collaboration, Relationship-building, Interviewing, Listening, Empathy
 <table>
     <thead>
-        <th style="width:20%;">Beginner</th>
-        <th style="width:20%;">Intermediate</th>
-        <th style="width:20%;">Advanced</th>
-        <th style="width:20%;">Expert</th>
-        <th style="width:20%;">Leading Expert</th>
+        <th style="width:20%;">0</th>
+        <th style="width:20%;">1</th>
+        <th style="width:20%;">2</th>
+        <th style="width:20%;">3</th>
+        <th style="width:20%;">4</th>
     </thead>
     <tbody>
         <tr>
@@ -254,11 +254,11 @@ Mastery of a competency is cumulative. At each successive level, engineers are e
 **Example Skills:** Accountability, Responsibility, Mentorship, Making hard decisions, Setting an example
 <table>
     <thead>
-        <th style="width:20%;">Beginner</th>
-        <th style="width:20%;">Intermediate</th>
-        <th style="width:20%;">Advanced</th>
-        <th style="width:20%;">Expert</th>
-        <th style="width:20%;">Leading Expert</th>
+        <th style="width:20%;">0</th>
+        <th style="width:20%;">1</th>
+        <th style="width:20%;">2</th>
+        <th style="width:20%;">3</th>
+        <th style="width:20%;">4</th>
     </thead>
     <tbody>
         <tr>
